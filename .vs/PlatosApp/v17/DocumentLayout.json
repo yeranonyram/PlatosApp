@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\views\\platopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\views\\platopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\views\\platopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\views\\platopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|c:\\users\\flores\\source\\repos\\platosapp\\platosapp\\services\\platoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16C9089-2B9B-464E-B4B9-E0B812863E49}|PlatosApp\\PlatosApp.csproj|solutionrelative:platosapp\\services\\platoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\App.xaml",
+              "RelativeDocumentMoniker": "PlatosApp\\App.xaml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\App.xaml",
+              "RelativeToolTip": "PlatosApp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T23:45:44.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PlatosApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\AppShell.xaml",
+              "RelativeToolTip": "PlatosApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T23:35:22.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PlatosApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "PlatosApp\\Views\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T23:22:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\PlatoPage.xaml.cs",
+              "RelativeDocumentMoniker": "PlatosApp\\Views\\PlatoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\PlatoPage.xaml.cs",
+              "RelativeToolTip": "PlatosApp\\Views\\PlatoPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:43:08.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatoService.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Services\\PlatoService.cs",
+              "RelativeDocumentMoniker": "PlatosApp\\Services\\PlatoService.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Services\\PlatoService.cs",
+              "RelativeToolTip": "PlatosApp\\Services\\PlatoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:36:47.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\PlatoPage.xaml",
+              "RelativeDocumentMoniker": "PlatosApp\\Views\\PlatoPage.xaml",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\PlatoPage.xaml",
+              "RelativeToolTip": "PlatosApp\\Views\\PlatoPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T21:42:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PlatosApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\App.xaml.cs",
+              "RelativeToolTip": "PlatosApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:36:34.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PlatosApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "PlatosApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:23:18.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlatosApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FLORES\\source\\repos\\PlatosApp\\PlatosApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlatosApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T22:07:34.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

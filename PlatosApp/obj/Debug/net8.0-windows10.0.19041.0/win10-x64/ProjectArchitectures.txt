@@ -1,0 +1,1 @@
+C:\Users\FLORES\source\repos\PlatosApp\PlatosApp\PlatosApp.csproj;x64
